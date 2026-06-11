@@ -35,3 +35,8 @@ This project is an IoT-based safety system using ESP32 to detect fire and gas le
 
 ##  Developed By
 Karishma (replace if needed)
+
+
+## 📷 Circuit Diagram
+
+![Circuit Diagram](circuit%20diagram.png)
